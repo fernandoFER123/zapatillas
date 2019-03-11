@@ -1,0 +1,4 @@
+ingormacion de cada zapatilla 
+-zapatillas nike : color negro
+-zapatillas adidas: color azul
+-zapatillas supra: color blanco
