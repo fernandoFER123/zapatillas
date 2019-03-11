@@ -3,3 +3,5 @@ precios de zapatillas :
 -adidas: 400
 -supra: 10
 -n:250
+-buzos nike:200
+-busos adidas:300

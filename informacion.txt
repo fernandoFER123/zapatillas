@@ -3,3 +3,5 @@ ingormacion de cada zapatilla
 -zapatillas adidas: color azul
 -zapatillas supra: color blanco
 -zapatillas n: color amarillo
+-buzos nike : color negro
+-buzos adidas: color blanco
