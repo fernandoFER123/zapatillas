@@ -6,3 +6,4 @@ ingormacion de cada zapatilla
 -buzos nike : color negro
 -buzos adidas: color blanco
 -poleras:de todo color
+-camisas:solo azul
