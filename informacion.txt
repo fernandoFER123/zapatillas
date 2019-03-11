@@ -5,3 +5,4 @@ ingormacion de cada zapatilla
 -zapatillas n: color amarillo
 -buzos nike : color negro
 -buzos adidas: color blanco
+-poleras:de todo color
